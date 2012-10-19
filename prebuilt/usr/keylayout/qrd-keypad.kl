@@ -1,0 +1,11 @@
+key 116   POWER             WAKE
+key 231   CALL                     
+key 107   ENDCALL			WAKE_DROPPED           
+key 115   VOLUME_UP         WAKE
+key 114   VOLUME_DOWN       WAKE
+key 211   FOCUS
+key 212   CAMERA
+key 139	  MENU
+key 102	  HOME
+key 158	  SEARCH
+key 217	  BACK
